@@ -13,3 +13,10 @@
 
 **Unit test for webserver: listening on port 80, bad gateway(502)**
 
+	installation of nginx and nodejs canbe found inside 	
+	Cookbook-node/node/recipes/default.rb
+
+	Unit tests can be found inside 
+	Cookbook-node/node/test/smoke/default/
+	default_test.rb`
+
